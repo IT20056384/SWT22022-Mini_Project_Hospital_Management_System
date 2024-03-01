@@ -18,7 +18,7 @@ Before proceeding with the installation, ensure that you have PHP, MySQL, and a 
              2)Navigate to the project directory
                         cd SWT22022-Mini_Project_Hospital_Management_System
 
-   	     3)Import the database schema:
+   	         3)Import the database schema:
                         Open XAMPP or WAMP server
                         Create a database with name hospitalSystems and migrate it(php artisan migrate).
                         
