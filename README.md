@@ -13,7 +13,7 @@ The project follows a client-server architecture. The backend is built using PHP
 Before proceeding with the installation, ensure that you have PHP, MySQL, and a web server (e.g., Apache) installed on your system.
 
              1) Clone the repository from GitHub using fllowing link:
-                      
+                        https://github.com/IT20056384/SWT22022-Mini_Project_Hospital_Management_System.git  
 
              2)Navigate to the project directory
                         cd SWT22022-Mini_Project_Hospital_Management_System
